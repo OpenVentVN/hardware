@@ -14,7 +14,7 @@ A Ventilator is a medical device that plays an important role in emergency and h
 
 ## Technical specification
 
-![alt electrical_diagram] (https://raw.githubusercontent.com/OpenVentVN/hardware/master/sodomachdien.jpg)
+![alt electrical_diagram](https://raw.githubusercontent.com/OpenVentVN/hardware/master/sodomachdien.jpg)
 
 ## License
 

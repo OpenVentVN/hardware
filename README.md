@@ -17,8 +17,10 @@ A Ventilator is a medical device that plays an important role in emergency and h
 ### Mechanical
 ![alt electrical_diagram](https://raw.githubusercontent.com/OpenVentVN/hardware/master/chitietcokhi.jpg)
 
-### Electrical Block Diagram
+### Block Diagram
+![alt block](https://raw.githubusercontent.com/OpenVentVN/hardware/master/openvent-dia.png)
 
+### Electrical Block Diagram
 ![alt electrical_diagram](https://raw.githubusercontent.com/OpenVentVN/hardware/master/sodomachdien.jpg)
 
 ## License
